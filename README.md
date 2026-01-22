@@ -13,12 +13,13 @@ A Windows 11 system tray app that auto-hides the mouse pointer when idle.
 ## Requirements
 
 - Windows 10/11
-- .NET 10 Runtime
 
-## Building
+## Building from Source
+
+Requires .NET 10 SDK.
 
 ```
-dotnet build
+dotnet publish
 ```
 
 ## Usage
