@@ -2,6 +2,8 @@
 
 A Windows 11 system tray app that auto-hides the mouse pointer when idle.
 
+If you find Pointless useful, [buy me a coffee](https://ko-fi.com/mikesilvo) ☕
+
 ## Features
 
 - Hide pointer after configurable idle timeout (1-60 seconds)
